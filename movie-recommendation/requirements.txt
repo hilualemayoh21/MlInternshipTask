@@ -1,0 +1,6 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0          # only if you plan to use notebooks/
+matplotlib>=3.7.0       # optional, for EDA plots in notebooks/exploration.ipynb
+seaborn>=0.12.0         # optional, for nicer visualizations
